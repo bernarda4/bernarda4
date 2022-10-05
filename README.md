@@ -73,6 +73,6 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)&nbsp;
 
-## ![rootMeScore](assets/root.png) Root-me
+## <img src = "assets/root.png" width = 30px> Root-me
 
 ![rootMeScore](assets/static_badge_dark.png)
