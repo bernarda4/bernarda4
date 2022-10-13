@@ -81,4 +81,4 @@
   <img src="assets/static_badge_dark.png" alt="rootMeScore" />
 </p>
 
-*(actually 1075pts)*
+*(actually 1310pts)*
