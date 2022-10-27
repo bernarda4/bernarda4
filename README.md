@@ -17,7 +17,6 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/antoine-bernard5" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
 </div>
 
 ## About me !
@@ -25,7 +24,7 @@
 - 🎓 &nbsp;I'm currently studying Cybersecurity at the University of Paris-Saclay at CentraleSupelec.
 - :computer: I did 6month internship in WebScrapping
 - ✍️ &nbsp;I did 6month internship in Quality Assurance
-- 👨🏽‍💻 &nbsp;I’m currently resolve root-me challenges
+- 👨🏽‍💻 &nbsp;I’m currently resolve [root-me challenges](https://www.root-me.org/akiolv)
 
 </br>
 
@@ -72,12 +71,14 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)&nbsp;
 
-## <img src = "assets/root.png" width = 16px> Root-me
+## <a href="https://www.root-me.org/akiolv"><img src = "assets/root.png" width = 16px> Root-me Profil</a>
 
 </br>
 
 <p align="center">
-  <img src="assets/static_badge_dark.png" alt="rootMeScore" />
+  <a href="https://www.root-me.org/akiolv" target="_blank">
+    <img src="assets/static_badge_dark.png" alt="rootMeScore" />
+  </a>
 </p>
 
 *(actually 1735pts)*
