@@ -71,7 +71,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)&nbsp;
 
-## <a href="https://www.root-me.org/akiolv"><img src = "assets/root.png" width = 16px> Root-me Profil</a>
+## <a href="https://www.root-me.org/akiolv"><img src = "assets/root.png" width = 16px> RootMe Profil</a>
 
 </br>
 
